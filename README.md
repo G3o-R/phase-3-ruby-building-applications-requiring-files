@@ -248,3 +248,5 @@ take a closer look at this file, typically known as `environment.rb`.
 - [How Do Gems Work?][how gems work]
 
 [how gems work]: https://www.justinweiss.com/articles/how-do-gems-work/
+
+https://github.com/G3o-R/phase-3-ruby-building-applications-requiring-files
